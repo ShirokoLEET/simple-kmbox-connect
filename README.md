@@ -1,6 +1,6 @@
 # Simple Kmbox Connect
 
-A simplified, single-header C++ library for interacting with the Kmbox B+ (Net version) hardware.
+A simplified, single-header C++ library for interacting with the Kmbox (Net version) hardware.
 
 ## Features
 
